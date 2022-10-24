@@ -28,7 +28,7 @@ Pequeno sistema (API REST) de gerenciamento de vagas de estacionamento de um apa
 	<td>2.**</td>
 </tr>
 <tr>
-	<td>Gradle</td>
+	<td>Maven</td>
 	<td>7.**</td>
 </tr>
 <tr>
