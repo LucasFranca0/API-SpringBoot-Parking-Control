@@ -73,7 +73,7 @@ spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation=true
 	<td>1.18.24</td>
 </tr>
 <tr>
-	<td>My SQL Driver</td>
+	<td>my sql driver</td>
 	<td></td>
 </tr>
 </table>
